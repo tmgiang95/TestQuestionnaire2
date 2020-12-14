@@ -1,0 +1,7 @@
+up
+down
+left
+right
+home
+back
+ok

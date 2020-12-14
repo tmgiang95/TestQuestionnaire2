@@ -1,0 +1,4 @@
+include ':questionnaire'
+include ':questionnairelibrary'
+include ':app'
+rootProject.name = "TestQuestionnaire"
